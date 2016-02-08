@@ -1,0 +1,54 @@
+{
+  "generator-angm": {
+    "appName": "app",
+    "angularCookies": true,
+    "angularAnimate": true,
+    "angularTouch": true,
+    "angularSanitize": true,
+    "angular-loading-bar": true,
+    "pascalprecht.translate": true,
+    "directives": [
+      {
+        "name": "header"
+      },
+      {
+        "name": "header-notification"
+      },
+      {
+        "name": "sidebar"
+      },
+      {
+        "name": "changelanguage"
+      },
+      {
+        "name": "logout"
+      }
+    ],
+    "modules": [
+      {
+        "name": "program-ksztalcenia"
+      },
+      {
+        "name": "authorisation"
+      },
+      {
+        "name": "authentication"
+      },
+      {
+        "name": "macierzsladowania"
+      },
+      {
+        "name": "moduly-ksztalcenia"
+      },
+      {
+        "name": "przedmioty-ksztalcenia"
+      },
+      {
+        "name": "profile-modulow"
+      },
+      {
+        "name": "zajecia"
+      }
+    ]
+  }
+}
